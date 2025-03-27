@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(eber.jpg);
+    font-size: 2em;
+}
+
+h1{
+    text-align: center;
+    padding: 10px 0;
+    font-family: 'Lucida Sans';
+    color: hsl(180, 76%, 54%);
+}
+img{
+    width: 600px;
+    height: 250px;
+    object-fit: contain;
+    border-radius: 300;
+
+}
+#myp1{
+   color: hsl(277, 82%, 47%);
+}
+#myp2{
+    color: hsl(120, 65%, 40%);
+    font-family: 'Times New Roman', Times, serif;
+}
+#myp3{
+    color: hsl(143, 83%, 25%);
+
+}
